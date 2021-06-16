@@ -1,2 +1,2 @@
-# C-28
-Sling Shot
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
